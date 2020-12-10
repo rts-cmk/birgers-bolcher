@@ -64,9 +64,9 @@ Nettopris for et bolche er råvareprisen plus 250 % (begge uden moms)
 
 ## Øvelse 6
 
-6.1	Løs opgave 2.3 ved brug af IN
+~~.1	Løs opgave 2.3 ved brug af IN~~
 
-6.2	Løs opgave 2.4 ved brug af NOT IN
+~~6.2	Løs opgave 2.4 ved brug af NOT IN~~
 
 6.3	Udskriv hvor mange bolscher der vejer under 15 g.
 
